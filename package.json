@@ -1,0 +1,1 @@
+{\n  "name": "claude-installer",\n  "version": "1.0.0",\n  "bin": { "cli": "cli.js" },\n  "dependencies": {}\n}
